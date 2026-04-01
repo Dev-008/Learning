@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class smart_locker {
 
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
+    		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter The Locker Code: ");
 		int code = sc.nextInt();
 		
