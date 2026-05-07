@@ -14,6 +14,7 @@ public class Remove_Last_Digit {
 		else {
 			System.out.println("Not Valid Number");
 		}
+		sc.close();
 
 	}
 
